@@ -7,17 +7,41 @@
 <!---->
 <!--나의 MBTI-->
 
-안녕하세요 저는 ...
+<!--짧은 소개-->
+<h3>🧙‍♂️ 효율적인 코딩을 지향하는 개발자 이재원 입니다.</h3>
+<h3>💻 Back-End Developer / Web Developer</h3>
 
-
-
+<!--Profile 공부 내용 -->
+<h2>능력</h2>
 - 💼 연락처
-- 💬 이메일
+- 📜 Skill 📜
+- 🛠️ Tools 🛠️
+- 💬 
+
+<!--Contact 연락 -->
+<h2>능력</h2>
+- 💼 연락처
+- 📜 Skill 📜
+- 🛠️ Tools 🛠️
+- 💬 
+
+<!-- Tech Stack 능력-->
+<h2>능력</h2>
+- 💼 연락처
+- 📜 Skill 📜
+- 🛠️ Tools 🛠️
+- 💬 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runarell)](https://github.com/runarell/github-readme-stats)
+
 
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
+const 이재원 = {
+  name : "",
+  
+  gender: "she", //성별
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
