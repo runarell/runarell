@@ -11,27 +11,32 @@
 <h3>🧙‍♂️ 효율적인 코딩을 지향하는 개발자 이재원 입니다.</h3>
 <h3>💻 Back-End Developer / Web Developer</h3>
 
-<!--Profile 공부 내용 -->
-<h2>능력</h2>
+<!--Profile 교육 이력 -->
+<h2>Profile</h2>
+- 🎂 1987.10.12
+- 🏫 돌마고등학교 졸업 (  )
+- 👨‍🎓 백석문화대학교 졸업 (  )
+
+<!--Contact 연락처 -->
+<h2>Contact</h2>
 - 💼 연락처
 - 📜 Skill 📜
 - 🛠️ Tools 🛠️
 - 💬 
 
-<!--Contact 연락 -->
-<h2>능력</h2>
+<!-- Career 이력-->
+<h2>Career</h2>
 - 💼 연락처
 - 📜 Skill 📜
 - 🛠️ Tools 🛠️
 - 💬 
 
-<!-- Tech Stack 능력-->
-<h2>능력</h2>
+<!-- Prize 입상 -->
+<h2>Prize</h2>
 - 💼 연락처
 - 📜 Skill 📜
 - 🛠️ Tools 🛠️
 - 💬 
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runarell)](https://github.com/runarell/github-readme-stats)
 
