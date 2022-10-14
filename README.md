@@ -12,42 +12,49 @@
 <h3>💻 Back-End Developer / Web Developer</h3>
 
 <!--Profile 교육 이력 -->
-<h2>Profile</h2>
-- 🎂 1987.10.12
-- 🏫 돌마고등학교 졸업 (  )
-- 👨‍🎓 백석문화대학교 졸업 (  )
+> <h2>Profile</h2>
+>   
+>   - 🎂 1987.10.12 
+>      
+>   - 🏫 돌마고등학교 졸업 (  )    
+>      
+>   - 👨‍🎓 백석문화대학교 졸업 (  )    
+>   
+
+
+<hr/>
 
 <!--Contact 연락처 -->
-<h2>Contact</h2>
-- 💼 연락처
-- 📜 Skill 📜
-- 🛠️ Tools 🛠️
-- 💬 
+> <h2>Contact</h2>
+>   
+>   - 📱 010 - 4765 - 1536
+>      
+>   - 📧 arckrich@gmail.com    
+>       
+
+<hr/>
 
 <!-- Career 이력-->
-<h2>Career</h2>
-- 💼 연락처
-- 📜 Skill 📜
-- 🛠️ Tools 🛠️
-- 💬 
+> <h2>Career</h2>
+>      
+>   - 🧑🏻‍💼 Hpeerage ( 프론트 앤드 부분 )    
+>      
+>   - 📖 코리아IT아카데미 ( 날짜 )    
+>      
 
-<!-- Prize 입상 -->
-<h2>Prize</h2>
-- 💼 연락처
-- 📜 Skill 📜
-- 🛠️ Tools 🛠️
-- 💬 
+<hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runarell)](https://github.com/runarell/github-readme-stats)
-
+<!-- Skill  -->
+> <h2>Skills</h2>
+>      
+>   - 📜 Skills
+>      
+>   - 🛠️ Tools
 
 
 ```javascript
 const 이재원 = {
-  name : "",
-  
-  gender: "she", //성별
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Javascript, HTML, CSS, Python, Java, ],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
@@ -58,6 +65,14 @@ const 이재원 = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runarell)](https://github.com/runarell/github-readme-stats)
+
+
+
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
