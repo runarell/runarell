@@ -11,6 +11,17 @@
 <h3>🧙‍♂️ 효율적인 코딩을 지향하는 개발자 이재원 입니다.</h3>
 <h3>💻 Back-End Developer / Web Developer</h3>
 
+```javascript
+const User = {
+  Name  : "이재원"
+  Email  : "arckrich@gmail.com" 
+  Phone  : "010 - 4765 - 1536"
+  codeSkill : [ HTML, CSS, Javascript, Java, SpringBoot, MyBatis ],
+  DBSkill : [MySQL, Oracle]
+  tools : [ eclipse, intellij, VSCode, Sourcetree, DBeaver]
+}
+```
+
 <!--Profile 교육 이력 -->
 > <h2>Profile</h2>
 >   
@@ -20,10 +31,7 @@
 >      
 >   - 👨‍🎓 백석문화대학교 졸업 (  )    
 >   
-
-
 <hr/>
-
 <!--Contact 연락처 -->
 > <h2>Contact</h2>
 >   
@@ -31,9 +39,7 @@
 >      
 >   - 📧 arckrich@gmail.com    
 >       
-
 <hr/>
-
 <!-- Career 이력-->
 > <h2>Career</h2>
 >      
@@ -48,42 +54,24 @@
 > <h2>Skills</h2>
 >      
 >   - 📜 Skills
->      
+>   
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> 
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 >   - 🛠️ Tools
 
 
-```javascript
-const 이재원 = {
-  code: [Javascript, HTML, CSS, Python, Java, ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runarell)](https://github.com/runarell/github-readme-stats)
 
 
-
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
@@ -130,23 +118,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 - [The Athul of 2021](https://blog.athulcyriac.in/blog/2021-me/)
 <!-- BLOG-POST-LIST:END -->
 
--------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   2 hrs 50 mins   █████████▓░░░░░░░░░░░░░░░   38.04 %
-Python       2 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.46 %
-Go           1 hr 29 mins    █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-JSON         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Cheetah      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Text         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-```
-
-<!--END_SECTION:waka-->
-
--------
 
 
 <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
