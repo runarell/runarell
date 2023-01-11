@@ -16,8 +16,8 @@ const User = {
   Name  : "이재원"
   Email  : "arckrich@gmail.com" 
   Phone  : "010 - 4765 - 1536"
-  codeSkill : [ HTML, CSS, Javascript, Java, SpringBoot, MyBatis ],
-  DBSkill : [MySQL, Oracle]
+  codeSkill : [ HTML, CSS, Javascript, Java, SpringBoot, MyBatis, ],
+  DBSkill : [MySQL, Oracle, ]
   tools : [ eclipse, intellij, VSCode, Sourcetree, DBeaver]
 }
 ```
