@@ -40,8 +40,8 @@ const User = {
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
 
 
-> <h2>🛠소개</h2>
-> 저는 퍼블리셔 입니다
+> <h2>📃소개</h2>
+> 저는 효율적인 코딩을 추구하는 퍼블리셔 입니다.
 > 
 
 
