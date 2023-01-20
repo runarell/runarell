@@ -9,16 +9,17 @@
 
 <!--짧은 소개-->
 <h3>🧙‍♂️ 효율적인 코딩을 지향하는 개발자 이재원 입니다.</h3>
-<h3>💻 Back-End 주니어 / Web Developer </h3>
+<h3>💻 front-End Web Developer </h3>
 
 ```javascript
 const User = {
-  Name  : "이재원"
-  Email  : "arckrich@gmail.com" 
-  Phone  : "010 - 4765 - 1536"
+  Name  : "이재원",
+  Email  : "arckrich@gmail.com", 
+  Phone  : "010 - 4765 - 1536",
+  employmentStatus: false,
   codeSkill : [ HTML, CSS, Javascript, Java, SpringBoot, MyBatis, ],
-  DBSkill : [MySQL, Oracle, ]
-  tools : [ eclipse, intellij, VSCode, Sourcetree, DBeaver]
+  DBSkill : [MySQL, Oracle, ],
+  tools : [ eclipse, intellij, VSCode, Sourcetree, DBeaver],
 }
 ```
 > <h2>💻Tech Stack</h2>
