@@ -11,6 +11,7 @@
 <h3>🧙‍♂️ 효율적인 코딩을 지향하는 개발자 이재원 입니다.</h3>
 <h3>💻 front-End Web Developer </h3>
 
+
 ```javascript
 const User = {
   Name  : "이재원",
@@ -22,6 +23,8 @@ const User = {
   tools : [ eclipse, intellij, VSCode, Sourcetree, DBeaver],
 }
 ```
+
+
 > <h2>💻Tech Stack</h2>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,6 +35,8 @@ const User = {
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
 > <h2>🛠Tools</h2>
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=Eclipse&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000.svg?style=flat&logo=IntelliJIDEA&logoColor=white)
@@ -41,11 +46,13 @@ const User = {
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white)
 
 
+
 > <h2>📃소개</h2>
 > 저는 효율적인 코딩을 추구하는 퍼블리셔 입니다.
-> 배우기에 힘쓰고 나의 성장이 곧 회사의 성장이라 생각합니다.<br>
-> 책임감을 가지고 나의 일에 최선을 다해 좋은 결과를 만들겠습니다.<br>
-> 자만하지 않고 나보다 어린 사람에게도 배울것이 있다고 생각합니다.
+> 배우기에 힘쓰고 나의 성장이 곧 회사의 성장이라 생각하며 일합니다.<br>
+> 책임감을 가지고 나의 일에 최선을 다해 좋은 결과를 만듭니다.<br>
+> 자만하지 않고 어떤 사람에게든 배우려는 자세로 일을 합니다.<br>
+> 모든 일에 긍정적인 자세로 임하고 부정적인 생각으로 일의 보안점을 생각합니다.
 
 
 
