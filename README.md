@@ -20,7 +20,7 @@ const User = {
   employmentStatus: false,
   codeSkill : [ HTML, CSS, Javascript, Java, SpringBoot, MyBatis, ],
   DBSkill : [MySQL, Oracle, ],
-  tools : [ eclipse, intellij, VSCode, Sourcetree, DBeaver],
+  tools : [ Eclipse, Intellij, VSCode, Sourcetree, DBeaver],
 }
 ```
 
@@ -34,6 +34,8 @@ const User = {
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Mybatis](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 
